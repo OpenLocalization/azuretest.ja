@@ -1,23 +1,9 @@
 {
-  "LastProcessedCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
+  "LastProcessedCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
   "Items": {
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\architecture-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
-    },
-    "0b69f9992a5768c7edff536f649151dece7ad766": {
-      "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
-      "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
-    },
-    "7054df413c7958c291ba8136ec882d216f8cbc1b": {
-      "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
-      "SourceFilePath": "articles\\azure-portal-overview.md",
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
@@ -60,6 +46,20 @@
     "ccb3dc82a246bd4956fb71b29fc86504980828a6": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\resource-group-advanced-template.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "7870bd0f16ccb4af222d22f69fb6f70a09206876": {
+      "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
+      "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d3486ae9136e7856bc42212385ea797094475802": {
+      "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
+      "SourceFilePath": "articles\\test\\hello.md",
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"

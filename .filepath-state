@@ -1,12 +1,10 @@
 {
   "fcbb862260d0527d7058597b05ea5c7ad9c7909f": [
-    "articles\\architecture-overview.md"
+    "articles\\architecture-overview.md",
+    "articles\\test\\architecture-overview.md"
   ],
-  "0b69f9992a5768c7edff536f649151dece7ad766": [
+  "7870bd0f16ccb4af222d22f69fb6f70a09206876": [
     "articles\\azure-billing-set-up-alerts.md"
-  ],
-  "7054df413c7958c291ba8136ec882d216f8cbc1b": [
-    "articles\\azure-portal-overview.md"
   ],
   "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": [
     "articles\\azure-preview-portal-supported-browsers-devices.md"
@@ -23,7 +21,10 @@
   "71d6b880385b45c567ef7bd6a6b563292358a977": [
     "articles\\media\\active-directory-aadconnect\\cloudauth.png"
   ],
+  "d3486ae9136e7856bc42212385ea797094475802": [
+    "articles\\test\\hello.md"
+  ],
   "ccb3dc82a246bd4956fb71b29fc86504980828a6": [
-    "articles\\resource-group-advanced-template.md"
+    "articles\\test\\resource-group-advanced-template.md"
   ]
 }
