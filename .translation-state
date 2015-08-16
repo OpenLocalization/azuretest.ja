@@ -60,9 +60,9 @@
     "d3486ae9136e7856bc42212385ea797094475802": {
       "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
       "SourceFilePath": "articles\\test\\hello.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "c9aab96c2cb86b70c9c542ee4f4426256fa3190d",
+      "TargetFilePath": "articles\\test\\hello.md",
+      "UpdatedDateTime": "2015-08-16T06:42:30.2671797Z"
     }
   }
 }
