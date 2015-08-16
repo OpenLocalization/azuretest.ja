@@ -4,58 +4,58 @@
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\architecture-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\test\\architecture-overview.md",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\azure-preview-portal-supported-browsers-devices.md",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "e3776c18f19a7c15214f2e3cecb0b91aee70b912": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "3760178f0756d28e47193a6beee084c3f29fe989": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "771c64b654fdf1a86c4ddba8e82d0f9bc43b0951": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "71d6b880385b45c567ef7bd6a6b563292358a977": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\media\\active-directory-aadconnect\\cloudauth.png",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "ccb3dc82a246bd4956fb71b29fc86504980828a6": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
       "SourceFilePath": "articles\\resource-group-advanced-template.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\test\\resource-group-advanced-template.md",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "7870bd0f16ccb4af222d22f69fb6f70a09206876": {
       "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
       "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "befd23e20f0529226f5010e876d2df7cee5f96da",
+      "TargetFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "UpdatedDateTime": "2015-08-16T06:39:14.843215Z"
     },
     "d3486ae9136e7856bc42212385ea797094475802": {
       "SourceFileCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
