@@ -1,0 +1,29 @@
+{
+  "fcbb862260d0527d7058597b05ea5c7ad9c7909f": [
+    "articles\\architecture-overview.md"
+  ],
+  "0b69f9992a5768c7edff536f649151dece7ad766": [
+    "articles\\azure-billing-set-up-alerts.md"
+  ],
+  "7054df413c7958c291ba8136ec882d216f8cbc1b": [
+    "articles\\azure-portal-overview.md"
+  ],
+  "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": [
+    "articles\\azure-preview-portal-supported-browsers-devices.md"
+  ],
+  "e3776c18f19a7c15214f2e3cecb0b91aee70b912": [
+    "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png"
+  ],
+  "3760178f0756d28e47193a6beee084c3f29fe989": [
+    "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png"
+  ],
+  "771c64b654fdf1a86c4ddba8e82d0f9bc43b0951": [
+    "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png"
+  ],
+  "71d6b880385b45c567ef7bd6a6b563292358a977": [
+    "articles\\media\\active-directory-aadconnect\\cloudauth.png"
+  ],
+  "ccb3dc82a246bd4956fb71b29fc86504980828a6": [
+    "articles\\resource-group-advanced-template.md"
+  ]
+}
