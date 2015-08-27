@@ -1,30 +1,65 @@
 {
-  "fcbb862260d0527d7058597b05ea5c7ad9c7909f": [
-    "articles\\architecture-overview.md",
-    "articles\\test\\architecture-overview.md"
+  "63bfd03564b475b0958d7621b8c86c657e522a32": [
+    "articles\\app-service\\app-service-authentication-overview.md"
   ],
-  "7870bd0f16ccb4af222d22f69fb6f70a09206876": [
-    "articles\\azure-billing-set-up-alerts.md"
+  "8c28ae27d0f091533e688227f09d217ce4753559": [
+    "articles\\app-service\\media\\app-service-authentication-overview\\gateway.png"
   ],
-  "6c505d46321d1563a1cb15f3ba5e37e3f103e8ca": [
-    "articles\\azure-preview-portal-supported-browsers-devices.md"
+  "33eeb848c02059133819647ba8d02abf97290ca6": [
+    "articles\\app-service\\media\\app-service-authentication-overview\\clientflow.png"
   ],
-  "e3776c18f19a7c15214f2e3cecb0b91aee70b912": [
-    "articles\\media\\active-directory-aadconnect\\AADConnect_GetStarted2.png"
+  "d1c22e525594f960305e2d49c0fa1c9aad314cba": [
+    "articles\\app-service\\media\\app-service-authentication-overview\\serverflow.png"
   ],
-  "3760178f0756d28e47193a6beee084c3f29fe989": [
-    "articles\\media\\active-directory-aadconnect\\AADConnect_HowItWorks2.png"
+  "51481b3f76a90273b579a84af088697804481c16": [
+    "articles\\app-service\\media\\app-service-authentication-overview\\idprovidertoken.png"
   ],
-  "771c64b654fdf1a86c4ddba8e82d0f9bc43b0951": [
-    "articles\\media\\active-directory-aadconnect\\AADConnect_Manage2.png"
+  "ff0cef6c6ac221a3e71caf4077b329519e238dbe": [
+    "articles\\app-service\\media\\app-service-authentication-overview\\saastoken.png"
   ],
-  "71d6b880385b45c567ef7bd6a6b563292358a977": [
-    "articles\\media\\active-directory-aadconnect\\cloudauth.png"
+  "0da05099e304d012e5a49f676efc6b3bb5f59efc": [
+    "articles\\app-service\\app-service-enterprise-multichannel-apps.md"
   ],
-  "d3486ae9136e7856bc42212385ea797094475802": [
-    "articles\\test\\hello.md"
+  "cd51b7dd35e74db9b2637b4284966566f76970b4": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\01aAADLogin.png"
   ],
-  "ccb3dc82a246bd4956fb71b29fc86504980828a6": [
-    "articles\\test\\resource-group-advanced-template.md"
+  "4b2d5f30daad087180890978ce33b27edc5d5238": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\02aDatafromOnpremisesSqlServer.png"
+  ],
+  "59721ca028bdba55ccc1b491198bbc32b6ffe910": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\03aSharepointListLink.png"
+  ],
+  "419f42de344aada6726b917130e63a1edb775a25": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\04aSharepointList.png"
+  ],
+  "d57eba4ba48d5e1bb618561274808b298bfeb13f": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\05aSharepointDocumentLibrary.png"
+  ],
+  "76cb3dde99838439c7762f6018a86b7c1d1b988b": [
+    "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\06aSalesforceIntegration.png"
+  ],
+  "d1a9d05ccf98ef649634249664d39c199548ee60": [
+    "articles\\app-service\\app-service-release-notes.md"
+  ],
+  "62a3d11eff25f595b8f5319784fd78c112c9233e": [
+    "articles\\app-service\\app-service-scale.md"
+  ],
+  "82f66fd3d21c300e78db109fb66df0882eb9a2d4": [
+    "articles\\app-service\\media\\app-service-scale\\ChoosePricingTier.png"
+  ],
+  "6abb5063d4c9e4c49a50f5ff5463711ec6bd356e": [
+    "articles\\app-service\\media\\app-service-scale\\ResourceGroup.png"
+  ],
+  "f34731c0dac33fc46713849e7a17d2c5cd4705e1": [
+    "articles\\app-service\\media\\app-service-scale\\ScaleDatabase.png"
+  ],
+  "0c4cb5d783d8c3b31030a2b71562308c664ca4e8": [
+    "articles\\app-service\\media\\app-service-scale\\GeoReplication.png"
+  ],
+  "b46938ebccce76a1abcb1745dfbabef863182564": [
+    "articles\\app-service\\app-service-value-prop-what-is.md"
+  ],
+  "86b056353e259eaeb530967bd7e2ceafd05a34d5": [
+    "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md"
   ]
 }

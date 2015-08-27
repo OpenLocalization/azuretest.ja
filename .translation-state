@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "b054fb79c93b495b41bad703e1bbd78292916ca7",
+  "LastProcessedCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
   "Items": {
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
@@ -63,6 +63,153 @@
       "TargetFileCommit": "c9aab96c2cb86b70c9c542ee4f4426256fa3190d",
       "TargetFilePath": "articles\\test\\hello.md",
       "UpdatedDateTime": "2015-08-16T06:42:30.2671797Z"
+    },
+    "63bfd03564b475b0958d7621b8c86c657e522a32": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\app-service-authentication-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "8c28ae27d0f091533e688227f09d217ce4753559": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\gateway.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "33eeb848c02059133819647ba8d02abf97290ca6": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\clientflow.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d1c22e525594f960305e2d49c0fa1c9aad314cba": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\serverflow.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "51481b3f76a90273b579a84af088697804481c16": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\idprovidertoken.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "ff0cef6c6ac221a3e71caf4077b329519e238dbe": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-authentication-overview\\saastoken.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "0da05099e304d012e5a49f676efc6b3bb5f59efc": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\app-service-enterprise-multichannel-apps.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "cd51b7dd35e74db9b2637b4284966566f76970b4": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\01aAADLogin.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "4b2d5f30daad087180890978ce33b27edc5d5238": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\02aDatafromOnpremisesSqlServer.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "59721ca028bdba55ccc1b491198bbc32b6ffe910": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\03aSharepointListLink.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "419f42de344aada6726b917130e63a1edb775a25": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\04aSharepointList.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d57eba4ba48d5e1bb618561274808b298bfeb13f": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\05aSharepointDocumentLibrary.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "76cb3dde99838439c7762f6018a86b7c1d1b988b": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-enterprise-multichannel-apps\\06aSalesforceIntegration.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d1a9d05ccf98ef649634249664d39c199548ee60": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\app-service-release-notes.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "62a3d11eff25f595b8f5319784fd78c112c9233e": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\app-service-scale.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "82f66fd3d21c300e78db109fb66df0882eb9a2d4": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ChoosePricingTier.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "6abb5063d4c9e4c49a50f5ff5463711ec6bd356e": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ResourceGroup.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "f34731c0dac33fc46713849e7a17d2c5cd4705e1": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\ScaleDatabase.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "0c4cb5d783d8c3b31030a2b71562308c664ca4e8": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\media\\app-service-scale\\GeoReplication.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "b46938ebccce76a1abcb1745dfbabef863182564": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\app-service-value-prop-what-is.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "86b056353e259eaeb530967bd7e2ceafd05a34d5": {
+      "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+      "SourceFilePath": "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
