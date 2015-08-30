@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
+  "LastProcessedCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
   "Items": {
     "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
       "SourceFileCommit": "50bb2ff1cf8d84cd7bea78419b15fe4f93a9f946",
@@ -207,6 +207,111 @@
     "86b056353e259eaeb530967bd7e2ceafd05a34d5": {
       "SourceFileCommit": "52ecec1744980503c0bc97843073a4b0375456a3",
       "SourceFilePath": "articles\\app-service\\azure-web-sites-web-hosting-plans-in-depth-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "65b0423b17de50be91eb154a8e746bba41ea28f1": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\architecture-overview\\BluePrintThumb.jpg",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "9a774cae94fc62e8664671afac12d67db278e69f": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\architecture-overview\\CnESymbols.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "60b0bcaec96a11dbe431a01f08e6d00e25676107": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\architecture-overview\\PnPPatternPosterThumb.jpg",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "336db0d561ee72ef3e158e69e47ce0591c9e4789": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\architecture-overview\\AzureArchInfographicThumb.jpg",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "0b69f9992a5768c7edff536f649151dece7ad766": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "37c26d4d5e9de7e66d42ff6d7d78c97ae3bcdf83": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert1.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "3b6a3902f2d1c0e084f4d09e1d6c377a9b4aec56": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalert2.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "12e040924980bc27d553b8ab96c497d03a5b2c67": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-billing-set-up-alerts\\billingalerts3.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "7054df413c7958c291ba8136ec882d216f8cbc1b": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\azure-portal-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "3b962bf2c0910eda18d87c42a195fd9528c463de": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_1.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "2809ca3f8ae2e73672995e53388b07e3499e6f20": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_2.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "3d066248d656e8d897a9c6237d909141794ab031": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_3.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "a2c9886be9efe74af07dbb7c00675f8da0d3c0d8": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_4.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "1d82be10db5d853d5243dd6fd677eca87db271f9": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_5.png",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "e57db804a6a6f3bf37667e07530dbd910e869cc9": {
+      "SourceFileCommit": "301f54de144e8cabe17e9409a8a19f5e7f8c2b91",
+      "SourceFilePath": "articles\\media\\azure-portal-how-to-use\\azure_portal_6.png",
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "UpdatedDateTime": "0001-01-01T00:00:00"
