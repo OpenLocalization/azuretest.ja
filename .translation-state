@@ -319,9 +319,9 @@
     "3cb00b71002c7df248c1448b6304511d6d6dbe8a": {
       "SourceFileCommit": "42ba423fbcb87cd62ccf1a41a7f93d579ea20a32",
       "SourceFilePath": "articles\\architecture-overview.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8fad49c1e909216612b16090120130905d8fd978",
+      "TargetFilePath": "articles\\architecture-overview.md",
+      "UpdatedDateTime": "2015-08-30T15:01:00.7014995Z"
     }
   }
 }
