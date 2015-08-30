@@ -16,7 +16,7 @@
     ms.date="07/06/2015" 
     ms.author="robb"/>
 
-#Microsoft Azure上的应用程序架构
+#Test Application Architecture on Microsoft Azure
 
 Resources for building applications that use Microsoft Azure.
 
@@ -56,38 +56,37 @@ The 3D Blueprint PDFs are created in a non-Microsoft tool, but a Visio template 
 See a [BETA training video of the template here.](http://aka.ms/3dBlueprintTemplate).
 To obtain the Visio 3d Blueprint Template beta, email [CnESymbols@microsoft.com](mailto:CnESymbols@microsoft.com).
 
-![Microsoft Architecture Blueprint 3D diagram]
+![Microsoft Architecture Blueprint 3D diagram](./media/architecture-overview/BluePrintThumb.jpg)
 
-##Reference
+##Cloud and Enterprise Symbol/Icon set
 
-[Microsoft Architecture Blueprint 3D diagram](http://aka.ms/CnESymbols)Cloud and Enterprise Symbol/Icon set
-Download the Cloud and Enterprise Symbol/Icon set
- to create technical materials that describe Azure, Windows Server, SQL Server and other Microsoft products.
+[Download the Cloud and Enterprise Symbol/Icon set](http://aka.ms/CnESymbols) to create technical materials that describe Azure, Windows Server, SQL Server and other Microsoft products.
 You can use them in architecture diagrams, training materials, presentations, datasheets, infographics, whitepapers and even 3rd party books if the book trains people to use Microsoft products.
-
 The symbols are in Visio and PNG formats.
-Instructions on how to use the PNGs in PowerPoint are included.[The symbol set ships quarterly and is updated as new services are released.](mailto:CnESymbols@microsoft.com)If you want a preview of the newest release, which may include additional Azure services, email 
+Instructions on how to use the PNGs in PowerPoint are included.
 
-CnESymbols@microsoft.com
-.[We’d like to know what you think, so there are instructions for providing feedback in the download.](http://aka.ms/azuresymbolssurveyv2)If you've used the symbols, fill out the short 5 question 
+The symbol set ships quarterly and is updated as new services are released.
+If you want a preview of the newest release, which may include additional Azure services, email [CnESymbols@microsoft.com](mailto:CnESymbols@microsoft.com).
 
-survey[ or email us at the address above to let us know if they are useful and how you use them.](http://www.microsoft.com/en-us/download/details.aspx?id=35772)Additional symbols are available in the 
+We’d like to know what you think, so there are instructions for providing feedback in the download.
+If you've used the symbols, fill out the short 5 question [survey](http://aka.ms/azuresymbolssurveyv2) or email us at the address above to let us know if they are useful and how you use them.
 
-![Cloud and Enterprise Symbol/Icon set]
+Additional symbols are available in the [Microsoft Office Visio stencil](http://www.microsoft.com/en-us/download/details.aspx?id=35772), though they are not optimized for architectural diagrams like the CnE set is.
 
-##Microsoft Office Visio stencil
+![Cloud and Enterprise Symbol/Icon set](./media/architecture-overview/CnESymbols.png)
 
-, though they are not optimized for architectural diagrams like the CnE set is.[Reference](http://msdn.microsoft.com/library/dn568099.aspx)Cloud and Enterprise Symbol/Icon set
-Design patterns
+##Design patterns
 
-![Patterns and Practices Cloud Patterns Poster]
+Microsoft Patterns and Practices has published the book [Cloud Design Patterns](http://msdn.microsoft.com/library/dn568099.aspx) which is available both on MSDN and in PDF download.
+There is also a large format poster available which lists all the patterns.
 
-##Microsoft Patterns and Practices has published the book 
+![Patterns and Practices Cloud Patterns Poster](./media/architecture-overview/PnPPatternPosterThumb.jpg)
 
-Cloud Design Patterns
- which is available both on MSDN and in PDF download.[There is also a large format poster available which lists all the patterns.](http://azure.microsoft.com/documentation/infographics/building-real-world-cloud-apps/)Reference[Patterns and Practices Cloud Patterns Poster](http://azure.microsoft.com/documentation/infographics/cloud-services/)Architecture Infographics
+##Architecture Infographics
 
-![Azure Architecture Infographics]
+Microsoft publishes several architecture related posters/infographics.
+They include [Building Real-World Cloud Applications](http://azure.microsoft.com/documentation/infographics/building-real-world-cloud-apps/) and [Scaling with Cloud Services](http://azure.microsoft.com/documentation/infographics/cloud-services/) .
+
+![Azure Architecture Infographics](./media/architecture-overview/AzureArchInfographicThumb.jpg)
 
 
-tecture Infographics](./media/architecture-overview/AzureArchInfographicThumb.jpg)
