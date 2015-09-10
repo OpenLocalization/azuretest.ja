@@ -16,9 +16,9 @@
     ms.date="06/01/2015" 
     ms.author="vikdesai"/>
 
-#Set up billing alerts for your Microsoft Azure subscriptions
+#啦啦
 
-Are you concerned about how much you're spending each month for your Azure subscription?
+哦?
 If you’re the account administrator for an Azure subscription, you can use the Azure Billing Alert Service to create customized billing alerts that help you monitor and manage billing activity for your Azure accounts.
 
 This service is a preview service, so the first thing you have to do is sign up for it - visit <a href="https://account.windowsazure.com/PreviewFeatures">the Preview Features page </a> in the Azure account management portal to do this.
@@ -58,3 +58,5 @@ Click the plus sign for an alert in the list to edit it, or click the trash can 
 [image3]: ./media/azure-billing-set-up-alerts/billingalerts3.png 
 
 
+billingalert2.png
+[Image3]: ./media/azure-billing-set-up-alerts/billingalerts3.png
