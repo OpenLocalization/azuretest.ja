@@ -186,9 +186,9 @@
     "0b69f9992a5768c7edff536f649151dece7ad766": {
       "SourceFileCommit": "42ba423fbcb87cd62ccf1a41a7f93d579ea20a32",
       "SourceFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "TargetFileCommit": "8bc5c30681ddac10e8910fdfd54a4bfd9ec03793",
+      "TargetFileCommit": "7da4feb51a20c6029bbcbc9d9c9222f77e71f930",
       "TargetFilePath": "articles\\azure-billing-set-up-alerts.md",
-      "UpdatedDateTime": "2015-09-10T06:19:01.8292971Z"
+      "UpdatedDateTime": "2015-09-10T06:51:53.1204319Z"
     },
     "37c26d4d5e9de7e66d42ff6d7d78c97ae3bcdf83": {
       "SourceFileCommit": "42ba423fbcb87cd62ccf1a41a7f93d579ea20a32",
